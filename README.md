@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airdead" alt="airdead" /></a> </p>
 
-- 🔭 I’m currently working on [HudRenderer](https://github.com/AirDead/HudRenderer)
+- 🔭 I’m currently working on [EduApp](https://github.com/AirDead/EduApp)
 
-- 🌱 I’m currently learning **Bukkit, Fabric**
+- 🌱 I’m currently learning **Bukkit, Compose**
 
-- 👯 I’m looking to collaborate on [HudRenderer](https://github.com/AirDead/HudRenderer)
+- 👯 I’m looking to collaborate on [aRenderer](https://github.com/AirDead/aRender)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
